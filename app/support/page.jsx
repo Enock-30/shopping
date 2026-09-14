@@ -4,7 +4,7 @@ import {faFacebookF} from '@fortawesome/free-solid-svg-icons'
 
 export default function SupportPage() {
   return (
-    <div className="bg-gray-50  text-gray-800">
+    <div id='support' className="bg-gray-50  text-gray-800">
       {/* Hero Section */}
       <section className="py-4 bg-white text-center">
         <h1 className="text-4xl font-bold mb-2">Support & Contact</h1>

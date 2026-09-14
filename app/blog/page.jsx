@@ -8,7 +8,7 @@ const BlogPage = ()  =>{
         'Learn how useState, useEffect, and other hooks simplify functional components in React.',
       author: 'Enock A.',
       date: 'July 5, 2025',
-      image: 'IMG-20250503-WA0002.jpg',
+      image: '/IMG_20250706_170214587.jpg',
       link: '/blog/react-hooks',
     },
     {
@@ -18,7 +18,7 @@ const BlogPage = ()  =>{
         'A beginner-friendly guide to building beautiful UI with utility-first Tailwind classes.',
       author: 'Enock A.',
       date: 'July 1, 2025',
-      image: 'IMG_20250706_170214587.jpg',
+      image: '/IMG-20260817-WA0024.jpg',
       link: '/blog/tailwind-styling',
     },
     {
@@ -28,7 +28,7 @@ const BlogPage = ()  =>{
         'Learn to set up a RESTful API using Express and connect it to MongoDB.',
       author: 'Enock A.',
       date: 'June 20, 2025',
-      image: 'fa6546731061c9fc0f4cac80026db4ac.jpg',
+      image: '/IMG-20250503-WA0002.jpg',
       link: '/blog/express-api',
     },
   ];

@@ -25,11 +25,17 @@ const BlogPostDetails =  ()=>{
         
         getPost()
       },[])
+console.log('blogs',blogs);
+let blog = []
+blog.push(blogs)
+console.log('blog',blog);
 
    return (
        <>
-       <h1>{blogs.title} </h1>
+       
+        <h1>{blogs.title} </h1>
        <p>{blogs.body}</p>
+        
        </> 
     )
 }

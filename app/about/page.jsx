@@ -73,7 +73,7 @@ export default function AboutUsPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               { name: 'Enock EAGLE 1', role: 'CEO', img: 'IMG_20250706_170214587.jpg' },
-              { name: 'ANGEL K', role: 'CTO', img: 'fa6546731061c9fc0f4cac80026db4ac.jpg' },
+              { name: 'ANGEL K', role: 'CTO', img: '/IMG-20260817-WA0023.jpg' },
               { name: 'Lily Adams', role: 'Product Manager', img: 'IMG-20250503-WA0002.jpg' },
             ].map((member, i) => (
               <div key={i} className="bg-gray-100 p-6 rounded-xl shadow text-center">
